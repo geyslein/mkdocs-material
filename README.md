@@ -22,6 +22,7 @@
     src="https://img.shields.io/pypi/dm/mkdocs-material.svg" 
     alt="Downloads"
   /></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fgeyslein%2Fmkdocs-material?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgeyslein%2Fmkdocs-material.svg?type=shield"/></a>
   <a href="https://gitter.im/squidfunk/mkdocs-material"><img 
     src="https://badges.gitter.im/squidfunk/mkdocs-material.svg" 
     alt="Chat on Gitter"
@@ -219,3 +220,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgeyslein%2Fmkdocs-material.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgeyslein%2Fmkdocs-material?ref=badge_large)
